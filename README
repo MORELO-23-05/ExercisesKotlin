@@ -28,6 +28,7 @@ Para ejecutar los ejercicios, necesitarás tener instalado Kotlin y el entorno d
 ## Contenido
 
 El código se encuentra organizado en diferentes funciones que corresponden a cada ejercicio. Cada ejercicio se encuentra dentro de su categoría respectiva (operadores, condicionales o ciclos) y se accede desde el menú principal.
+
 ## Operadores
 1. Calcular el área de un triángulo.
 2. Ingresar dos números y sumarlos.
@@ -37,6 +38,7 @@ El código se encuentra organizado en diferentes funciones que corresponden a ca
 6. Calcular área y volumen de un cilindro.
 7. Calcular la longitud y el área del círculo inscrito.
 8. Calcular el promedio de tres números.
+
 ## Condicionales
 1. Determinar si un número es positivo o negativo.
 2. Comparar dos números y mostrar el mayor y menor.
@@ -45,6 +47,7 @@ El código se encuentra organizado en diferentes funciones que corresponden a ca
 5. Calcular el cociente entre dos números.
 6. Sumar o multiplicar dos números según condición.
 7. Determinar si un año es bisiesto.
+
 ## Ciclos
 1. Imprimir múltiplos de 3 entre 1 y 100.
 2. Imprimir números impares entre 0 y 100.
