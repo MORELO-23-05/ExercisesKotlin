@@ -9,14 +9,13 @@ Para ejecutar los ejercicios, necesitarás tener instalado Kotlin y el entorno d
 ## Instrucciones de Uso
 
 1. Clona este repositorio o descarga los archivos en tu  y abre el entorno de desarrollo llamado Android Studio con su version Flamingo. Para ingresar a los ejercicios debes ingresar de la siguiente:
-  - Estaras o en la carpeta llamada "App"
+  - Estaras en la carpeta llamada "App"
   - Ingresa a la carpeta com.example.exercises"
   - Ingresa al archivo llamado "MainActivity.kt"
 
 2. Abre una terminal y navega al directorio donde se encuentran los archivos del proyecto.
 
 3. Ejecuta el programa principal con el siguiente comando: Control + Mayus + F10
-
 
 4. Se mostrará un menú con diferentes donde habran un menú principal y un submenu de cada ejercicio. Selecciona una opción ingresando el número correspondiente y presiona Enter.
 
@@ -54,7 +53,6 @@ El código se encuentra organizado en diferentes funciones que corresponden a ca
 5. Sumar cuadrados de los cien primeros números naturales.
 6. Generar y mostrar números entre dos valores.
 7. Sumar todos los números que se digitan por teclado mientras no sea cero.
-
 
 ## Contribuciones
 
