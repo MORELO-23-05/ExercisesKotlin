@@ -1,1 +1,71 @@
+# Ejercicios Kotlin
+
+Este repositorio contiene una serie de ejercicios resueltos en el lenguaje de programación Kotlin. Los ejercicios abarcan diferentes temas como operadores, condicionales y ciclos.
+
+## Requisitos
+
+Para ejecutar los ejercicios, necesitarás tener instalado Kotlin y el entorno de ejecución de Kotlin (KRE) como Android Studio entre otros. Puedes obtenerlos desde el sitio oficial de Kotlin.
+
+## Instrucciones de Uso
+
+1. Clona este repositorio o descarga los archivos en tu  y abre el entorno de desarrollo llamado Android Studio con su version Flamingo. Para ingresar a los ejercicios debes ingresar de la siguiente:
+  - Estaras o en la carpeta llamada "App"
+  - Ingresa a la carpeta com.example.exercises"
+  - Ingresa al archivo llamado "MainActivity.kt"
+
+2. Abre una terminal y navega al directorio donde se encuentran los archivos del proyecto.
+
+3. Ejecuta el programa principal con el siguiente comando: Control + Mayus + F10
+
+
+4. Se mostrará un menú con diferentes donde habran un menú principal y un submenu de cada ejercicio. Selecciona una opción ingresando el número correspondiente y presiona Enter.
+
+5. Sigue las instrucciones que se muestran en pantalla para cada ejercicio y visualiza los resultados.
+
+6. Para devolverte entre menus deberas utilizar la opcion "99".
+
+7. Para salir del programa, selecciona la opción "99" en el menú principal.
+
+## Contenido
+
+El código se encuentra organizado en diferentes funciones que corresponden a cada ejercicio. Cada ejercicio se encuentra dentro de su categoría respectiva (operadores, condicionales o ciclos) y se accede desde el menú principal.
+## Operadores
+1. Calcular el área de un triángulo.
+2. Ingresar dos números y sumarlos.
+3. Ingresar un número y visualizar el número elevado al cuadrado.
+4. Convertir de euros a dólares.
+5. Calcular área y perímetro de un cuadrado.
+6. Calcular área y volumen de un cilindro.
+7. Calcular la longitud y el área del círculo inscrito.
+8. Calcular el promedio de tres números.
+## Condicionales
+1. Determinar si un número es positivo o negativo.
+2. Comparar dos números y mostrar el mayor y menor.
+3. Encontrar el menor y el mayor de tres números.
+4. Sumar o restar dos números según condición.
+5. Calcular el cociente entre dos números.
+6. Sumar o multiplicar dos números según condición.
+7. Determinar si un año es bisiesto.
+## Ciclos
+1. Imprimir múltiplos de 3 entre 1 y 100.
+2. Imprimir números impares entre 0 y 100.
+3. Imprimir números pares entre 1 y 100.
+4. Imprimir cuadrados de los números del 1 al 30.
+5. Sumar cuadrados de los cien primeros números naturales.
+6. Generar y mostrar números entre dos valores.
+7. Sumar todos los números que se digitan por teclado mientras no sea cero.
+
+
+## Contribuciones
+
+Si encuentras algún error, bug o tienes alguna sugerencia para mejorar el código, no dudes en abrir un "issue" o enviar una "pull request". ¡Toda colaboración es bienvenida!
+
+## Agradecimientos
+
+Este proyecto fue creado con el fin de proporcionar ejercicios resueltos en Kotlin para aquellos que estén interesados en aprender este lenguaje de programación. Agradezco a la comunidad de desarrolladores de Kotlin por su constante apoyo y contribuciones.
+
+¡Diviértete resolviendo los ejercicios y aprendiendo Kotlin!
+
+---
+Creado por: Mario Andres Morelo Hernandez - Desarrollador principal (https://github.com/MORELO-23-05)
 
